@@ -17,7 +17,7 @@
     - ![我是图片](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3900966785,2864196618&fm=173&s=76A026E000D3BBCC2EB9DD1C03001002&w=640&h=854&img.JPEG "南瓜")
 
   - 仓库内图片的使用
-    - ![内部图片](./img/aaa.JPEG "鼠标放上去显示的文字")
+    - ![内部图片](./img/bd_logo.png "鼠标放上去显示的文字")
 - 图片的引用式链接
   - ![我是图片]
   - ![我是图片别名][我是图片]
@@ -51,4 +51,4 @@
 [README.md]: ./README.md
 [代码块]: #代码块
 [我是图片]: https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3900966785,2864196618&fm=173&s=76A026E000D3BBCC2EB9DD1C03001002&w=640&h=854&img.JPEG "南瓜"
-[引用内部图片]: ./img/aaa.JPEG "鼠标放上去显示的文字"
+[引用内部图片]: ./img/bd_logo.png "鼠标放上去显示的文字"
